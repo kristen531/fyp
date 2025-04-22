@@ -1,21 +1,21 @@
 insight_id,patient_id,algorithm,description,created_at
-3000,1014,GATs,Insight 1: Generated insight using Node2Vec.,4/26/2024 21:32
-3001,1008,Shortest Path,Insight 2: Generated insight using GATs.,4/23/2024 23:24
-3002,1008,Shortest Path,Insight 3: Generated insight using Shortest Path.,4/4/2024 5:12
-3003,1015,Shortest Path,Insight 4: Generated insight using Node2Vec.,4/27/2024 16:52
-3004,1006,GATs,Insight 5: Generated insight using GATs.,4/16/2024 22:56
-3005,1012,GATs,Insight 6: Generated insight using Shortest Path.,4/8/2024 13:38
-3006,1003,Shortest Path,Insight 7: Generated insight using Node2Vec.,4/21/2024 15:56
-3007,1009,GATs,Insight 8: Generated insight using GATs.,4/26/2024 9:07
-3008,1008,GATs,Insight 9: Generated insight using Shortest Path.,4/20/2024 19:42
-3009,1003,GATs,Insight 10: Generated insight using Node2Vec.,4/12/2024 8:25
-3010,1012,GATs,Insight 11: Generated insight using GATs.,4/25/2024 15:15
-3011,1013,Shortest Path,Insight 12: Generated insight using Shortest Path.,4/7/2024 7:10
-3012,1020,GATs,Insight 13: Generated insight using Node2Vec.,4/29/2024 3:59
-3013,1018,Node2Vec,Insight 14: Generated insight using GATs.,4/24/2024 22:11
-3014,1010,Node2Vec,Insight 15: Generated insight using Shortest Path.,4/3/2024 9:07
-3015,1000,Node2Vec,Insight 16: Generated insight using Node2Vec.,4/5/2024 15:38
-3016,1003,GATs,Insight 17: Generated insight using GATs.,4/6/2024 21:53
-3017,1020,Node2Vec,Insight 18: Generated insight using Shortest Path.,4/23/2024 4:46
-3018,1004,Node2Vec,Insight 19: Generated insight using Node2Vec.,4/17/2024 23:29
-3019,1009,Node2Vec,Insight 20: Generated insight using GATs.,4/3/2024 8:29
+I001,P1000,GATs,Insight 1: Generated insight using Node2Vec.,4/26/2024 21:32
+I002,P1001,Shortest Path,Insight 2: Generated insight using GATs.,4/23/2024 23:24
+I003,P1002,Shortest Path,Insight 3: Generated insight using Shortest Path.,4/4/2024 5:12
+I004,P1003,Shortest Path,Insight 4: Generated insight using Node2Vec.,4/27/2024 16:52
+I005,P1004,GATs,Insight 5: Generated insight using GATs.,4/16/2024 22:56
+I006,P1005,GATs,Insight 6: Generated insight using Shortest Path.,4/8/2024 13:38
+I007,P1006,Shortest Path,Insight 7: Generated insight using Node2Vec.,4/21/2024 15:56
+I008,P1007,GATs,Insight 8: Generated insight using GATs.,4/26/2024 9:07
+I009,P1008,GATs,Insight 9: Generated insight using Shortest Path.,4/20/2024 19:42
+I010,P1009,GATs,Insight 10: Generated insight using Node2Vec.,4/12/2024 8:25
+I011,P1010,GATs,Insight 11: Generated insight using GATs.,4/25/2024 15:15
+I012,P1011,Shortest Path,Insight 12: Generated insight using Shortest Path.,4/7/2024 7:10
+I013,P1012,GATs,Insight 13: Generated insight using Node2Vec.,4/29/2024 3:59
+I014,P1013,Node2Vec,Insight 14: Generated insight using GATs.,4/24/2024 22:11
+I015,P1014,Node2Vec,Insight 15: Generated insight using Shortest Path.,4/3/2024 9:07
+I016,P1015,Node2Vec,Insight 16: Generated insight using Node2Vec.,4/5/2024 15:38
+I017,P1016,GATs,Insight 17: Generated insight using GATs.,4/6/2024 21:53
+I018,P1017,Node2Vec,Insight 18: Generated insight using Shortest Path.,4/23/2024 4:46
+I019,P1018,Node2Vec,Insight 19: Generated insight using Node2Vec.,4/17/2024 23:29
+I020,P1019,Node2Vec,Insight 20: Generated insight using GATs.,4/3/2024 8:29
