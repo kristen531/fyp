@@ -1,1 +1,21 @@
-recommendation_id,model_used,prompt_used,recommendation,created_at
+recommendation_id,patient_id,insight_id,model_used,prompt_used,recommendation,created_at
+1,1020,2014,Seq2Seq,What is the best next step for patient 1?,Recommend follow-up blood test and dietary changes for patient 1.,4/8/2024 9:52
+2,1002,2004,T5,What is the best next step for patient 2?,Recommend follow-up blood test and dietary changes for patient 2.,4/21/2024 13:17
+3,1017,2003,Seq2Seq,What is the best next step for patient 3?,Recommend follow-up blood test and dietary changes for patient 3.,4/12/2024 9:33
+4,1003,2012,Seq2Seq,What is the best next step for patient 4?,Recommend follow-up blood test and dietary changes for patient 4.,4/23/2024 12:57
+5,1010,2008,Seq2Seq,What is the best next step for patient 5?,Recommend follow-up blood test and dietary changes for patient 5.,4/7/2024 10:35
+6,1012,2018,Seq2Seq,What is the best next step for patient 6?,Recommend follow-up blood test and dietary changes for patient 6.,4/11/2024 18:18
+7,1006,2002,GPT-3,What is the best next step for patient 7?,Recommend follow-up blood test and dietary changes for patient 7.,4/18/2024 2:02
+8,1007,2001,Seq2Seq,What is the best next step for patient 8?,Recommend follow-up blood test and dietary changes for patient 8.,4/15/2024 6:01
+9,1006,2013,GPT-3,What is the best next step for patient 9?,Recommend follow-up blood test and dietary changes for patient 9.,4/5/2024 22:38
+10,1010,2010,Seq2Seq,What is the best next step for patient 10?,Recommend follow-up blood test and dietary changes for patient 10.,4/15/2024 21:28
+11,1007,2011,GPT-3,What is the best next step for patient 11?,Recommend follow-up blood test and dietary changes for patient 11.,4/27/2024 10:04
+12,1016,2006,Seq2Seq,What is the best next step for patient 12?,Recommend follow-up blood test and dietary changes for patient 12.,4/14/2024 6:23
+13,1020,2016,Seq2Seq,What is the best next step for patient 13?,Recommend follow-up blood test and dietary changes for patient 13.,4/6/2024 1:00
+14,1013,2020,T5,What is the best next step for patient 14?,Recommend follow-up blood test and dietary changes for patient 14.,4/23/2024 12:57
+15,1013,2008,T5,What is the best next step for patient 15?,Recommend follow-up blood test and dietary changes for patient 15.,4/10/2024 1:11
+16,1001,2020,GPT-3,What is the best next step for patient 16?,Recommend follow-up blood test and dietary changes for patient 16.,4/15/2024 11:39
+17,1020,2018,T5,What is the best next step for patient 17?,Recommend follow-up blood test and dietary changes for patient 17.,4/1/2024 15:13
+18,1019,2007,Seq2Seq,What is the best next step for patient 18?,Recommend follow-up blood test and dietary changes for patient 18.,4/10/2024 21:24
+19,1011,2008,T5,What is the best next step for patient 19?,Recommend follow-up blood test and dietary changes for patient 19.,4/18/2024 7:08
+20,1015,2000,Seq2Seq,What is the best next step for patient 20?,Recommend follow-up blood test and dietary changes for patient 20.,4/17/2024 18:32
